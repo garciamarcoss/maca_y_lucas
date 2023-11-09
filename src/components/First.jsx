@@ -1,6 +1,6 @@
 import React from "react";
 import sunflower from "../assets/img/girasol.png";
-import firstBg from "../assets/img/firstBg.png";
+import firstBg from "../assets/img/firstBg1.jpg";
 import dateImg from "../assets/img/date.png";
 const First = () => {
 

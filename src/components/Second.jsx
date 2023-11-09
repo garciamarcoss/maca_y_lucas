@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import secondBg from "../assets/img/secondBg.png";
+import secondBg from "../assets/img/secondBg1.jpg";
 import polaroid from "../assets/img/polaroid.png";
 import ele from '../assets/img/ele.png'
 

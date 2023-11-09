@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import thirdBg from "../assets/img/thirdBg.png";
+import thirdBg from "../assets/img/thirdBg1.jpg";
 import butterflies from "../assets/img/mariposas.png";
 import lights from '../assets/img/luces.png'
 import daisies from '../assets/img/dosmargaritas.png'

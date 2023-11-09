@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import fouthBg from "../assets/img/fourthBg.png";
+import fouthBg from "../assets/img/fourthBg1.jpg";
 import ideas from "../assets/img/ideas.png";
 import flechaMarron from "../assets/img/flechamarron.png";
 import cancel from "../assets/img/linearoja.png";

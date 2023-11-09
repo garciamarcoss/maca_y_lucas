@@ -204,13 +204,12 @@ body {
   align-items: center;
   position: absolute;
   top: 9.5%;
-  left: 15.5%;
+  left: 16%;
   font-weight: bold;
 }
 
 .textPlan span {
-  font-size: 7vw;
-  margin-top: auto;
+  font-size: 6vw;
   color: #644f42;
 }
 
